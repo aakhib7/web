@@ -1,8 +1,8 @@
 export const products = [
   {
     id: 1,
-    img: "",
-    link: "http://lama.dev",
+    img: "https://aakhib7.github.io/web/static/media/Aakhib104.2e9dae9afd940a768bbf.JPG",
+    link: "https://aakhib7.github.io/web/",
   },
   {
     id: 2,
