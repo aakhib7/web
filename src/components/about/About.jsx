@@ -10,14 +10,14 @@ const About = () => {
           <img
             src={aakhib}
             alt=""
-            className="a-img"
+            className="a-img"s
           />
         </div>
       </div>
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-        I'm a extrovert and a confident person with an exploring mindset. 
+        I'm an extrovert and a confident person with an exploring mindset. 
         </p>
         <p className="a-desc">
         If I need to define myself in one sentence that would be a frisky
