@@ -17,7 +17,7 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-        I'm a extrovert and a confident person with a exploring mindset. 
+        I'm a extrovert and a confident person with an exploring mindset. 
         </p>
         <p className="a-desc">
         If I need to define myself in one sentence that would be a frisky
