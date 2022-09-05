@@ -6,7 +6,7 @@ export const products = [
   },
   {
     id: 2,
-    img: "https://aakhib1.netlify.app/static/media/logo.d250beee6be09e68041a.jpg",
+    img: "https://aakhib1.netlify.app/",
     link: "aakhib1.netlify.app",
   },
   {
