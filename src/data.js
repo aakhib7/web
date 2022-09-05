@@ -6,8 +6,8 @@ export const products = [
   },
   {
     id: 2,
-    img: "",
-    link: "http://lama.dev",
+    img: "https://aakhib1.netlify.app/static/media/logo.d250beee6be09e68041a.jpg",
+    link: "aakhib1.netlify.app",
   },
   {
     id: 3,
